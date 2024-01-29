@@ -1,4 +1,4 @@
-# HDMConverter
+# HDMConverter - Converts HDMSpectra to Cirelli PPPC4DM table format
 
 ## Install
 1. Download this repo
