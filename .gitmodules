@@ -1,0 +1,3 @@
+[submodule "HDMSpectra"]
+	path = HDMSpectra
+	url = git@github.com:nickrodd/HDMSpectra.git

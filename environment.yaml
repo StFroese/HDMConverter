@@ -1,0 +1,12 @@
+name: hdm-converter
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - astropy
+  - h5py
+  - ipython
+  - jupyter
+  - pip
+  - pip:
+    - git+https://github.com/nickrodd/HDMSpectra.git
